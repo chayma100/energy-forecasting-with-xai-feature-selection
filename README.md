@@ -26,7 +26,7 @@ stlf-panama-xai/
 │   ├── 01_xgboost_model.ipynb                  # Best performing model (XGBoost + SHAP)
 │   ├── 02_cnn_model.ipynb                       # Multi-headed CNN architecture
 │   ├── 03_hybrid_xgboost_randomforest.ipynb     # Hybrid XGBoost + Random Forest
-│   └── 04_deep_learning_models_comparison.ipynb # Comparison of deep learning models
+│
 │
 ├── data/
 │   └── README.md                                # Dataset source and description
