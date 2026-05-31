@@ -118,7 +118,7 @@ Key features identified by SHAP:
 
 | Name | Institution |
 |---|---|
-| Chaima Zoghlemi | ENSI, University of Manouba |
+| Chaima Zoghlami | ENSI, University of Manouba |
 | Chadha Ben Said | ENSI, University of Manouba |
 | Asma Mhamdi | ENSI, University of Manouba |
 
